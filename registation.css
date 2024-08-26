@@ -1,0 +1,87 @@
+body {
+    background-color: rgba(207, 206, 204, 0.416);
+}
+
+.f-form {
+    border: 0px solid rgb(15, 11, 11);
+    width: 50%;
+    font-size: 18px;
+    margin-left: 300px;
+    padding-left: 25px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    background-color: hsla(180, 38%, 94%, 0.708);
+}
+
+input[type=text] {
+    border: 0px;
+    padding-left: 25px;
+    width: 50%;
+    /* margin: 25px; */
+    font-size: 18px;
+    margin-left: 25px;
+    padding: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+#n-input{
+    margin-left: 90px;
+}
+#f-input{
+margin-left: 40px;
+}
+input[type=email] {
+    padding: 10px;
+    width: 50%;
+    /* margin: 25px; */
+    margin-left: 25px;
+    border: 0px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+input[type=date] {
+    padding: 10px;
+    width: 50%;
+    margin-left: 25px;
+    border: 0px;    
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+#r-center {
+    text-align: center;
+    color: rgb(139, 109, 244);
+    font-size: 25px;
+    text-shadow: 2px 2px 3px red;
+}
+.m-mail{
+    font-size: 18px;
+    
+}
+#s-mail{
+    margin-left: 70px;
+}
+#m-num{
+    margin-left: 57px;
+}
+#s-date{
+    margin-left: 93px;
+}
+#s-adha{
+    margin-left: 55px;
+}
+#m-gen{
+    border: 0px;
+width: 24%;
+height: 1.30em;
+}
+input[type=radio] {
+    width: 24%;
+}
+#s-btn{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    margin-left: 240px;
+    width: 200px;
+    border-radius: 10px;
+    position: relative;
+    top: -10px;
+}
